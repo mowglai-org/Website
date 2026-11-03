@@ -81,7 +81,7 @@
 		"postcss": "^8.5.28",
 		"tailwindcss": "^4.3.3",
 		"typescript": "^5.9.3",
-		"typescript-eslint": "^8.59.2"
+		"typescript-eslint": "^8.72.1"
 	},
 	"overrides": {
 		"dompurify": "^3.4.16",
